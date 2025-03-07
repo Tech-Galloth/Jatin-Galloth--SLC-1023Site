@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+Name : Jatin Galloth Id no: 4405060
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
